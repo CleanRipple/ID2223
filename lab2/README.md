@@ -9,11 +9,11 @@ When doing training pipeline, we also used GPU on Colab. The pre-trained model �
 
 ## User Interface
 We created a user interface on Hugging Face. The codes are available in app.py. The interface is shown as below:
+![translate](https://github.com/CleanRipple/ID2223/blob/main/lab2/pictures/translate.png)
 
 Users are able to enter a YouTube link or speak to the microphone. Then click the button “submit”, and the audio will be transformed into simplified Chinese and shown in “output” bar on the right.
 
 To try the YouTube link insertion, you can use this link https://www.youtube.com/watch?v=neIHIdko0E0
-![translate](https://github.com/CleanRipple/ID2223/blob/main/lab2/pictures/translate.png)
 
 ## Improve model performance
 ### modal centric approach
