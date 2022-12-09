@@ -26,4 +26,9 @@ Since the wer result of each checkpoint keeps decreasing, we can see that our mo
 
 Constrained by the devices and the large dataset, we only use the model whisper-small for now. Perhaps applying a larger model with more layers like whisper-medium or whisper-large can give us a better result.
 
+-Use a more targeted model
+
+Whisper model is not very special-purpose for Chinese text transcription, so we find some more useful models like ChineseBERT and NEZHA-GEN in this link https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models
+
 ### data centric approach
+To train a well performed Chinese text transcription model, we can use some more targeted dataset like WenetSpeech Dataset and LATIC Dataset in this link https://www.twine.net/blog/mandarin-chinese-langauge-datasets/
