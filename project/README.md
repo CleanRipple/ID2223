@@ -14,7 +14,7 @@ The project is divided into 6 parts:
 5.Use Model_training.py to train the model.
 6.Use streamlit_app.py to deploy streamlit app. Use app.py to create user Interface on Huggingface.
 ### User Interface 
-Huggingface URL:https://huggingface.co/spaces/kk90ujhun/oslo_air-quality
+Huggingface URL:https://huggingface.co/spaces/kk90ujhun/air_quality
 
 Click "submit" and you can see the prediction of AQI for next 7 days.
 ![image](https://user-images.githubusercontent.com/117844256/212493882-4d66565c-b106-4fff-a4c4-0c394b487968.png)
